@@ -1,0 +1,43 @@
+.header__textbox{
+    color: #ff5c00;
+    text-align: center;
+}
+.header__text{
+    font-family: "  Inter";
+    font-size: 20px ;
+    color:#ff5c00 ;
+}
+body{
+    background-color: #B8E3E9;
+}
+.heroimg{
+    padding-top: 40px ;
+}
+.header__img img {
+margin-right: -20px;
+}
+.hero__text{
+    color: #ff00ff;
+    font-size: 20px ;
+}
+.section__text{
+    color: #15157a;
+    font-size: 20px ;
+}
+.hero__em{
+    margin-left: 80px ;
+   margin-top: 300px;
+}
+.footer__link{
+    color: #15157a;
+}
+.header__img{
+    text-align: right;
+margin-right: 20px;
+
+}
+.sectionimg{
+    text-align: right;
+    margin-right: 20px;
+    margin-bottom: 100px;
+}
